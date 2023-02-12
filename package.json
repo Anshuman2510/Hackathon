@@ -1,0 +1,22 @@
+{
+  "name": "Hack",
+  "version": "1.0.0",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "excel4node": "^1.7.2",
+    "jsdom": "^18.0.0",
+    "minimist": "^1.2.5",
+    "puppeteer": "^10.4.0",
+    "table-to-excel": "^1.0.6",
+    "xlsx-chart": "^0.4.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
